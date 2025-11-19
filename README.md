@@ -18,7 +18,7 @@ Desenvolvedor Full Stack entusiasta em desenvolvimento de aplicações web escal
 
 ```typescript
 const developer = {
-  name: "Seu Nome",
+  name: "Vinicius Sarmento",
   role: "Full Stack Developer",
   location: "Brasil 🇧🇷",
   code: ["PHP", "Go", "JavaScript", "TypeScript"],
