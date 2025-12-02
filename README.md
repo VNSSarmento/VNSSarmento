@@ -99,9 +99,12 @@ const developer = {
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Rocket" width="40" /> Projetos em Destaque
+
 <div align="center">
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VNSSarmento&repo=API-Personagens&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF)](https://github.com/VNSSarmento/API-Personagens)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VNSSarmento&repo=API-Transacoes-bancarias&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF)](https://github.com/VNSSarmento/API-Transacoes-bancarias)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
