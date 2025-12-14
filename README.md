@@ -2,7 +2,7 @@
 
 # 👋 Vinicius Sarmento Ramos
 
-### Full Stack Developer | PHP • Go • Laravel • React • TypeScript
+### Full Stack Developer | PHP • Go • Laravel • TypeScript
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -23,7 +23,7 @@ const developer = {
   location: "Brasil 🇧🇷",
   code: ["PHP", "Go", "JavaScript", "TypeScript"],
   technologies: {
-    frontend: ["React", "HTML5", "CSS3", "Tailwind CSS"],
+    frontend: ["HTML5", "CSS3", "Tailwind CSS"],
     backend: ["PHP","Laravel", "Go"],
     databases: ["MySQL", "PostgreSQL", "SQL server"],
     tools: ["Git", "Docker", "Linux", "VS Code"]
@@ -102,7 +102,7 @@ const developer = {
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VNSSarmento&repo=API-Personagens&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF)](https://github.com/VNSSarmento/API-Personagens)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VNSSarmento&repo=Notes&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF)](https://github.com/VNSSarmento/API-Personagens)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VNSSarmento&repo=API-Transacoes-bancarias&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF)](https://github.com/VNSSarmento/API-Transacoes-bancarias)
 
 </div>
