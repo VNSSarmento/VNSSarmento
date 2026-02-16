@@ -2,7 +2,7 @@
 
 # 👋 Vinicius Sarmento Ramos
 
-### Full Stack Developer | PHP • Go • Laravel
+### Backend Developer | PHP • Go • Laravel
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -14,7 +14,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> Sobre Mim
 
-Desenvolvedor Full Stack entusiasta em desenvolvimento de aplicações web escaláveis e eficientes. Especializado em arquiteturas modernas, clean code e boas práticas de desenvolvimento. Focado em entregar soluções de alta qualidade que geram valor real para o negócio.
+Desenvolvedor Backend entusiasta em desenvolvimento de aplicações web escaláveis e eficientes. Especializado em arquiteturas modernas, clean code e boas práticas de desenvolvimento. Focado em entregar soluções de alta qualidade que geram valor real para o negócio.
 
 ```typescript
 const developer = {
