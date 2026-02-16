@@ -19,9 +19,9 @@ Desenvolvedor Backend entusiasta em desenvolvimento de aplicações web escaláv
 ```typescript
 const developer = {
   name: "Vinicius Sarmento",
-  role: "Full Stack Developer",
+  role: "Backend Developer",
   location: "Brasil 🇧🇷",
-  code: ["PHP", "Go", "JavaScript", "TypeScript"],
+  code: ["PHP", "Go", "JavaScript"],
   technologies: {
     frontend: ["HTML5", "CSS3", "Tailwind CSS"],
     backend: ["PHP","Laravel", "Go"],
