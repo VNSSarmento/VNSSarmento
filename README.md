@@ -125,7 +125,7 @@ const developer = {
 
 <div align="center">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25" /> "Código é como piada interna, se ninguém além de você entende, não tem graça nenhuma." - Cory House <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25" />
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25" /> "Código é como piada interna, se ninguém além de você entende, não tem graça nenhuma." <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25" />
 
 <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
