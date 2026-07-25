@@ -23,8 +23,8 @@ const developer = {
   location: "Brasil 🇧🇷",
   code: ["PHP", "Go", "JavaScript"],
   technologies: {
-    frontend: ["HTML5", "CSS3", "Tailwind CSS"],
-    backend: ["PHP","Laravel", "Go"],
+    frontend: ["React Native", "Tailwind CSS"],
+    backend: ["GO","PHP","Laravel"],
     databases: ["MySQL", "PostgreSQL", "SQL server"],
     tools: ["Git", "Docker", "Linux", "VS Code"]
   },
