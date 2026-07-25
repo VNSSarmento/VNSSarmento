@@ -21,12 +21,12 @@ const developer = {
   name: "Vinicius Sarmento",
   role: "Backend Developer",
   location: "Brasil 🇧🇷",
-  code: ["PHP", "Go", "JavaScript"],
+  code: ["PHP", "Golang", "JavaScript"],
   technologies: {
     frontend: ["React Native", "Tailwind CSS"],
-    backend: ["GO","PHP","Laravel"],
+    backend: ["Golang","PHP","Laravel"],
     databases: ["MySQL", "PostgreSQL", "SQL server"],
-    tools: ["Git", "Docker", "Linux", "VS Code"]
+    tools: ["Git", "Docker", "Linux"]
   },
   currentFocus: "Building scalable and maintainable applications"
 };
