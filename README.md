@@ -104,7 +104,6 @@ const developer = {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VNSSarmento&repo=Notes&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF)](https://github.com/VNSSarmento/Notes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VNSSarmento&repo=CartoonCertou&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF)](https://github.com/VNSSarmento/CartoonCertou)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VNSSarmento&repo=AlgGen&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF)](https://github.com/VNSSarmento/AlgGen)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VNSSarmento&repo=EmailNil&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF)](https://github.com/VNSSarmento/EmailNil)
   
 </div>
 
