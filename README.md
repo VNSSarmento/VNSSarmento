@@ -84,13 +84,13 @@ const developer = {
 
 <div align="center">
   <a href="https://github.com/VNSSarmento/Notes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VNSSarmento&repo=Notes&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF&cache_seconds=1800" alt="Notes Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=VNSSarmento&repo=Notes&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF" alt="Notes Card" />
   </a>
   <a href="https://github.com/VNSSarmento/CartoonCertou">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VNSSarmento&repo=CartoonCertou&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF&cache_seconds=1800" alt="CartoonCertou Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=VNSSarmento&repo=CartoonCertou&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF" alt="CartoonCertou Card" />
   </a>
   <a href="https://github.com/VNSSarmento/AlgGen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VNSSarmento&repo=AlgGen&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF&cache_seconds=1800" alt="AlgGen Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=VNSSarmento&repo=AlgGen&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF" alt="AlgGen Card" />
   </a>
 </div>
 
